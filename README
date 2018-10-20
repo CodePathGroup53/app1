@@ -1,43 +1,46 @@
-Business Card App 
+# Business Card App 
 
-  
+## App Name: Business Me
+   
+## App Description 
 
-App Description 
+**Description:** Our app allows users to **create the image** they want to convey to **potential business partners** and **possible investors** alike!!  
 
-Allows people to make their own business cards and make them fully customizable. 
+### General App Attributes 
 
-  
+**Category:** Design App 
 
-General App Attributes 
+**Mobile:** Easy to make Business cards and add variety to them as well. A Business Contact app in your pocket It's offline. Bump function audio dings.
 
-Category: Design App 
+**Story:** To leave an impression on new contacts and inviting them into your network. Whether it be on a resume or a business card we strive to make your name stand out.
 
-Mobile: Easy to make Business cards and add variety to them as well. 
+**Market:** Our app has potential in everyone's lives, but our top market consists of men and women in the age range between 20-35 who want to market themselves or their company.
 
-Story: To introduce yourself to someone and leave them a way to contact you later. Make a business card for any encounter 
+**Habit:** Any time you meet a potential business acquaintance you want to leave a good impression.
 
-Market: All people usually need a way to let people they meet contact each other the first time they meet. 
-
-Habit: Any time you meet a potential business acquaintance you want to leave a good impression on them.  
-
-Scope: Version 1 allows to make simple templates and save to be used later. version 2 lets people purchase pre-made templates. 
-
-  
-
+**Scope:** 
+* Minimum Viable Product: Bump function. Create business cards and resumes. 
+* Product: Design own template. Can use your custom template 
+* Premium: Pre-made templates. Can't use your custom template.
+* WE NEED LAWYERS!!!
 // TODO: Enumerate User Stories 
 
 User can... 
 
   
 
-Wireframes 
+## Wireframes 
 
 // TODO: Add Wireframe Images 
 
   
 
-App Pitch Presentation 
+## App Pitch Presentation 
 
 // TODO: Add link to Pitch Presentation Deck 
 
- 
+
+## Notes
+
+App will go from Free to One-time pay
+Bump data transfer.
