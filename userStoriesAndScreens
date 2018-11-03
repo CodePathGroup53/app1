@@ -1,0 +1,50 @@
+
+# BusinessMe README
+
+Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in that link) will look like the following in your README:
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * Login
+ * Register
+ * Bump/Bump Settings
+ * New/Create
+ * Already Made Cards and Resumes
+ * User Info
+
+**Optional Nice-to-have Stories**
+
+ * Template Store
+ * Custom Template
+
+## 2. Screen Archetypes
+
+ * Register
+   * Register
+ * Login
+   * Login
+ * List of Cards and Resumes (Stream)
+   * New/Create
+   * Already Made
+ * Bump
+   * Bump
+ * Profile
+   * User info/editable
+ * Settings
+     * Bump Settings
+     * Other Settings
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * List of Cards and Resumes (Stream)
+ * Bump
+ * Profile
+ * Settings
+
+**Flow Navigation** (Screen to Screen)
+
+ * Bumping
+ * New Card/Resume
